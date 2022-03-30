@@ -39,7 +39,7 @@ function Feature({ icon, title }) {
         <span className="mt-5">{title}</span>
 
         <span className="text-[#707070] mt-4">
-        Get the best music app and get akk the latest music from afropop, afrobeats, reggae, & more.
+        Get the best music app and get all the latest music from afropop, afrobeats, reggae, & more.
         </span>
 
         <span className="text-[#E600FF] underline mt-[3rem] hover:cursor-pointer">

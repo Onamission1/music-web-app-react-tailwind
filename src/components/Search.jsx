@@ -110,8 +110,8 @@ function Search() {
             <b>Name or Direct URL</b>
           </span>
           <span className="text-sm mt-3 text-[#4D586A]">
-            Duis feugiat congue metus, ultrices vulputate <br /> nibh viverra
-            eget. Vestibulum ullamcorper <br /> volutpat varius.
+          Get the best music app and get all the latest <br />  music from afropop,
+          afrobeats, & more. <br /> Hassle free.
           </span>
         </div>
         {/* Music Player */}

@@ -8,12 +8,12 @@ function Download() {
       <img src={require("../img/Path 318.png")} alt="" className="w-[5rem]" />
       {/* heading */}
       <div className="headline mt-7 flex flex-col items-center text-[2rem]">
-        <span>Download The Best Music</span>
+        <span>Download The Best Music App</span>
         <span>
           <b>App Now!</b>
         </span>
         <span className="text-[1rem] text-gray-400 px-[15rem] text-center mt-[1rem]">
-          Download the best music app and get akk the latest music from afropop, afrobeats, reggae, & more.
+          Download the best music app and get all the latest music from afropop, afrobeats, reggae, & more.
         </span>
       </div>
       {/* dowload ads */}

@@ -50,9 +50,9 @@ function Hero() {
             <b>Best Qulaity Music</b>
           </span>
           <span className="text-[15px] text-[#525D6E]">
-          Get the best music app and get akk the latest music from afropop, afrobeats, & more.
+          Get the best music app and get all the latest music from afropop, afrobeats, & more.
             <br />
-            ou really don't need to worry, it is hassle free.
+            You really don't need to worry, it is hassle free.
           </span>
           {/* download ads */}
           <div>
